@@ -1,0 +1,5 @@
+{
+  "pool": "pool.minexmr.com:4444",
+  "wallet": "0xcFFDEcA26569b5EC1f61F9b96cAee410594B9101",
+  "worker": "myWorker"
+}
